@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+}
+
+*{
+    background-color: beige;
+}
+
+p{
+    font-size: 18px;
+}
+
+.playfair-display-regular {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  *{
+    color: #3d251e;
+  }
+
+  .mydiv {
+    background-color: #d2b48c;
+  }
+
+  .second-div {
+    background-color: #E5D3B3;
+  }
