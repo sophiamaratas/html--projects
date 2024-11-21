@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+   background-color: white;
+  }
+  .blue {
+    border: solid;
+    background-color: blue;
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin: 10px;
+    color: white;
+    top: 170px;
+    left: 970px;
+  }
+
+  .pink {
+    border: solid;
+    background-color: pink;
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin: 10px;
+    color: white;
+    top: 170px;
+    left: 1150px;
+  }
+
+  .brown {
+    border: solid;
+    background-color: #5a3825;
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin: 10px;
+    color: white;
+    top: 170px;
+    left: 1330px;
+  }
+
+  h1{
+    position: absolute;
+    top: 40px;
+    left: 1060px;
+    font-size: 400%;
+    font-family: default;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   
+  }
