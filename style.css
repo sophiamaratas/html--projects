@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+}
+
+.blue, .pink, .brown {
+    border: solid;
+    width: 90px;
+    height: 90px;
+    margin: 10px;
+    border-radius: 15px;
+    border-color: black;
+    position: absolute;
+}
+
+.blue {
+    top: 170px;
+    left: 528px;
+    background-color: blue;
+}
+
+.blue:hover {
+    border-color: white;
+}
+
+.pink {
+    top: 170px;
+    left: 715px;
+    background-color: pink;
+}
+
+.pink:hover {
+    border-color: white;
+}
+
+.brown {
+    top: 170px;
+    left: 900px;
+    background-color: #5a3825;
+}
+
+.brown:hover {
+    border-color: white;
+}
+
+h1 {
+    position: absolute;
+    top: 10px;
+    left: 590px;
+    font-size: 500%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#themeImage {
+    display: block;
+    width: 550px;
+    height: 500px;
+   margin-left: 495px;
+   margin-top: 500px;
+}
